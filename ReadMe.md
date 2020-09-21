@@ -11,3 +11,8 @@ Screens
 1. Splash Screen
 2. Home Screen
 3. Detail Screen
+
+(https://github.com/sonalknine/myJukeBox/edit/master/documents/SplashScreen.png)
+(https://github.com/sonalknine/myJukeBox/edit/master/documents/HomeScreenDefault.png)
+(https://github.com/sonalknine/myJukeBox/edit/master/documents/HomeScreenSearchResult.png)
+(https://github.com/sonalknine/myJukeBox/edit/master/documents/DetailScreen.png)
